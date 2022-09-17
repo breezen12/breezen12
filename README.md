@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @breezen12
-- 👀 I’m interested in Software Development
+- 👋 Hi, I’m Breeze
+- 👀 I’m an Software Engineer
 - 🌱 I’m currently learning AWS,Flutter
-- 💞️ I’m looking to collaborate on Android
+- 💞️ I’m an Android Developer
 - 📫 breezenadar12@gmail.com
 
 <!---
